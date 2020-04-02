@@ -16,7 +16,7 @@ igarcia8@uw.edu
 **Instructor ● Coding With Kids ● June 2017 - Aug 2017**
 * Taught engaging lesson plans for ages 5-8 to facilitate learning concepts of coding
 
-#Volunteer
+# Volunteer
 **Teen Leadership Program Operations Coordinator ● Camp Kesem ● September 2019 – Present**
 * Headed the Leaders in Training programming and schedule for camp at University of Washington 2020
 * Integrated teen camper engagement throughout the year
