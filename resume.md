@@ -3,13 +3,18 @@
 igarcia8@uw.edu
 
 [Linkedin](https://www.linkedin.com/in/isabella-garcia-123744132/)
+[GitHub](https://www.github.com)
+
+![profile picture](profilepic.jpg)
+
+>I am a senior studying Geography and Informatics at the University of Washington
 
 
 # Work Experience
 **LiDAR Analyst Intern ● GIS Surveyors Inc. ● June 2019 - Sept 2019**
 * Collaborated with an analyst team to manage and classify LiDAR data to meet client specifications
 
-**Front Desk ● LA Fitness ● June 2018 - Sept 2019**
+**Front Desk ● LA Fitness ● June 2018 - Sept 2018**
 * Consulted and resolved client concerns and needs
 * Handled guest payments
 
