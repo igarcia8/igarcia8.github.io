@@ -5,7 +5,7 @@ igarcia8@uw.edu
 [Linkedin](https://www.linkedin.com/in/isabella-garcia-123744132/)
 [GitHub](https://www.github.com)
 
-![profile picture](profilepic.jpg)
+<img src="profilepic.jpg" width="200">
 
 >I am a senior studying Geography and Informatics at the University of Washington
 
